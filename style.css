@@ -1,0 +1,23 @@
+body {
+    margin: 0cm;
+  }
+  
+  .cover {
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 400px;
+    background-image: url(https://cdn.glitch.global/cb947fdb-9ce6-4dc3-8f77-7cb1a1d0c6be/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg?v=1661226553737);
+    background-color:rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    
+  }
+  
+  
+  .card{
+    
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
+    
+  }
+  
